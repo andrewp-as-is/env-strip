@@ -17,7 +17,7 @@ $ [sudo] pip install env-strip
 ```
 
 #### Pros
-+   Docker compatible environment file
++   Docker compatible environment file without comments, blank lines and double quotes
 
 #### Scripts usage
 command|`usage`
