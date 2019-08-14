@@ -1,0 +1,14 @@
+{
+  "name": "env-strip",
+  "version": "2019.8.14",
+  "description": "strip comments and blank lines from env file",
+  "keywords": [
+    "env",
+    "strip"
+  ],
+  "homepage": "https://github.com/andrewp-as-is/env-strip",
+  "license": "Unlicense",
+  "bin": {
+    "env-strip": "./scripts/env-strip"
+  }
+}
