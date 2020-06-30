@@ -1,28 +1,25 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
+https://readme42.com
 -->
+
+
 
 [![](https://img.shields.io/badge/OS-Unix-blue.svg?longCache=True)]()
 [![](https://img.shields.io/pypi/v/env-strip.svg?maxAge=3600)](https://pypi.org/project/env-strip/)
-[![](https://img.shields.io/npm/v/env-strip.svg?maxAge=3600)](https://www.npmjs.com/package/env-strip)
-[![Travis](https://api.travis-ci.org/andrewp-as-is/env-strip.svg?branch=master)](https://travis-ci.org/andrewp-as-is/env-strip/)
+[![](https://img.shields.io/npm/v/env-strip.svg?maxAge=3600)](https://www.npmjs.com/package/env-strip)[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/env-strip/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/env-strip/actions)
 
-#### Installation
-```bash
-$ [sudo] npm i -g env-strip
-```
+### Installation
 ```bash
 $ [sudo] pip install env-strip
 ```
 
+```bash
+$ [sudo] npm i -g env-strip
+```
+
 #### Pros
 +   Docker compatible environment file without comments, blank lines and double quotes
-
-#### Scripts usage
-command|`usage`
--|-
-`env-strip` |`usage: env-strip path`
 
 #### Examples
 `.env`
@@ -51,5 +48,5 @@ $ find . \( -name .env.base -o -name ".env.prod.*" \) -exec cat {} \; | env-stri
 ```
 
 <p align="center">
-    <a href="https://pypi.org/project/python-readme-generator/">python-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>
