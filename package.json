@@ -1,6 +1,6 @@
 {
   "name": "env-strip",
-  "version": "2019.8.14",
+  "version": "2020.12.3",
   "description": "strip comments and blank lines from env file",
   "keywords": [
     "env",
